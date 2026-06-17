@@ -1,10 +1,10 @@
-# keemart-gac-risk-screening
+# saudi-gac-risk-screening
 
 三语(中/英/阿)竞争法风险文本筛查 skill,用于批量评审 Keeta / Keemart 的信函、邮件、合同,
 比对 GAC 拟立案的调查方向,逐条定位到合同编号 + 具体引文,输出结构化筛查清单。
 
 ## 安装
-把整个 `keemart-gac-risk-screening/` 文件夹放进你的 skills 目录:
+把整个 `saudi-gac-risk-screening/` 文件夹放进你的 skills 目录:
 - Claude Code / 插件式 skills:放到 `~/.claude/skills/`(或你的 skills 根目录)下。
 - 其他支持 SKILL.md 的环境:置于该环境约定的 skills 路径,确保 `SKILL.md` 在文件夹根部。
 
